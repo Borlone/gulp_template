@@ -1,0 +1,13 @@
+.header {
+  font-size: 12px;
+  background-color: 0;
+  border: none;
+  opacity: 0.3;
+  color: red; }
+
+.footer {
+  color: red;
+  font-family: fantasy;
+  padding: 10px;
+  opacity: 1;
+  margin: 10px; }

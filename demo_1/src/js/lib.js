@@ -1,0 +1,1 @@
+const lib = document.getElementById('lib');
